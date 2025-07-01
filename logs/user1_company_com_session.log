@@ -1,0 +1,2 @@
+{"timestamp": "2025-06-26T17:55:51.150029", "user": "user1@company.com", "action": "LOGIN", "details": {"success": true}}
+{"timestamp": "2025-06-30T15:32:05.472008", "user": "user1@company.com", "action": "LOGIN", "details": {"success": true}}

@@ -1,0 +1,21 @@
+{"timestamp": "2025-06-26T17:52:21.469476", "user": "admin@company.com", "action": "LOGIN", "details": {"success": true}}
+{"timestamp": "2025-06-26T18:01:06.245849", "user": "admin@company.com", "action": "LOGIN", "details": {"success": true}}
+{"timestamp": "2025-06-26T18:09:32.967550", "user": "admin@company.com", "action": "LOGIN", "details": {"success": true}}
+{"timestamp": "2025-06-26T18:11:52.914311", "user": "admin@company.com", "action": "LOGIN", "details": {"success": true}}
+{"timestamp": "2025-06-26T18:12:45.634411", "user": "admin@company.com", "action": "LOGIN", "details": {"success": true}}
+{"timestamp": "2025-06-26T18:13:20.599641", "user": "admin@company.com", "action": "FILE_UPLOADED", "details": {"filename": "LLP ams Osram Inventory EDI.xlsx", "saved_as": "admin_company_com_20250626_181320_LLP ams Osram Inventory EDI.xlsx", "size": 14038}}
+{"timestamp": "2025-06-26T18:13:20.607676", "user": "admin@company.com", "action": "PROCESSING_STARTED", "details": {"make_company": "Osram", "edi_type": "Inventory", "start_date": "2025-06-26", "end_date": "2025-06-26"}}
+{"timestamp": "2025-06-26T18:13:21.266740", "user": "admin@company.com", "action": "EDI_GENERATED", "details": {"edi_filename": "Osram_Inventory_20250626_181321.edi"}}
+{"timestamp": "2025-06-26T18:13:22.972078", "user": "admin@company.com", "action": "FILE_DOWNLOADED", "details": {"filename": "Osram_Inventory_20250626_181321.edi"}}
+{"timestamp": "2025-06-26T18:18:31.439121", "user": "admin@company.com", "action": "FILE_UPLOADED", "details": {"filename": "LLP ams Osram Inventory EDI.xlsx", "saved_as": "admin_company_com_20250626_181831_LLP ams Osram Inventory EDI.xlsx", "size": 14038}}
+{"timestamp": "2025-06-26T18:18:31.439121", "user": "admin@company.com", "action": "PROCESSING_STARTED", "details": {"make_company": "Osram", "edi_type": "POS", "start_date": "2025-06-13", "end_date": "2025-06-26"}}
+{"timestamp": "2025-06-26T18:18:31.522095", "user": "admin@company.com", "action": "EDI_GENERATED", "details": {"edi_filename": "Osram_POS_20250626_181831.edi"}}
+{"timestamp": "2025-06-26T18:18:32.890190", "user": "admin@company.com", "action": "FILE_DOWNLOADED", "details": {"filename": "Osram_POS_20250626_181831.edi"}}
+{"timestamp": "2025-06-26T18:20:27.644522", "user": "admin@company.com", "action": "LOGIN", "details": {"success": true}}
+{"timestamp": "2025-06-28T17:09:58.203171", "user": "admin@company.com", "action": "LOGIN", "details": {"success": true}}
+{"timestamp": "2025-06-28T17:10:13.647772", "user": "admin@company.com", "action": "LOGIN", "details": {"success": true}}
+{"timestamp": "2025-06-28T17:11:00.621479", "user": "admin@company.com", "action": "LOGIN", "details": {"success": true}}
+{"timestamp": "2025-06-28T17:11:35.042007", "user": "admin@company.com", "action": "FILE_UPLOADED", "details": {"filename": "RabyteSG_Inventory_24-06-2025.xlsx", "saved_as": "admin_company_com_20250628_171135_RabyteSG_Inventory_24-06-2025.xlsx", "size": 24288}}
+{"timestamp": "2025-06-28T17:11:35.051208", "user": "admin@company.com", "action": "PROCESSING_STARTED", "details": {"make_company": "Renesas", "edi_type": "POS", "start_date": "2025-06-26", "end_date": "2025-06-18"}}
+{"timestamp": "2025-06-28T17:11:35.771876", "user": "admin@company.com", "action": "EDI_GENERATED", "details": {"edi_filename": "Renesas_POS_20250628_171135.edi"}}
+{"timestamp": "2025-06-28T17:11:37.647837", "user": "admin@company.com", "action": "FILE_DOWNLOADED", "details": {"filename": "Renesas_POS_20250628_171135.edi"}}
